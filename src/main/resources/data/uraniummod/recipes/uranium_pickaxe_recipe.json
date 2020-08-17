@@ -1,0 +1,30 @@
+{
+  "group": "uraniummod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "1": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "2": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "uraniummod:uranium_pickaxe",
+    "count": 1
+  }
+}

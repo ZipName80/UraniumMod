@@ -1,1 +1,15 @@
-{}
+{
+  "item.uraniummod.uranium_hoe": "Uranium Hoe",
+  "block.uraniummod.uranium_ore_block": "Block of Uranium",
+  "item.uraniummod.uranium_armor_chestplate": "Uranium Chestplate",
+  "item.uraniummod.uranium_pickaxe": "Uranium Pickaxe",
+  "itemGroup.taburanium_tab": "UraniumMod",
+  "item.uraniummod.uranium_sword": "Uranium Sword",
+  "item.uraniummod.uranium_armor_leggings": "Uranium Leggings",
+  "item.uraniummod.uranium_axe": "Uranium Axe",
+  "item.uraniummod.uranium_dust": "Uranium",
+  "item.uraniummod.uranium_armor_helmet": "Uranium Helmet",
+  "block.uraniummod.uranium_ore": "Uranium Ore",
+  "item.uraniummod.uranium_armor_boots": "Uranium Boots",
+  "item.uraniummod.uranium_shovel": "Uranium Shovel"
+}

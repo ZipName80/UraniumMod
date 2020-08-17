@@ -1,10 +1,244 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "UraniumDust",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_dust"
+    },
+    {
+      "name": "UraniumOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore"
+    },
+    {
+      "name": "UraniumOreBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_block"
+    },
+    {
+      "name": "UraniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_block_recipe"
+    },
+    {
+      "name": "UraniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_block_ore_recipe"
+    },
+    {
+      "name": "UraniumOreSmelting",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_smelting"
+    },
+    {
+      "name": "UraniumPickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_pickaxe"
+    },
+    {
+      "name": "UraniumAxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_axe"
+    },
+    {
+      "name": "UraniumSword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_sword"
+    },
+    {
+      "name": "UraniumShovel",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_shovel"
+    },
+    {
+      "name": "UraniumHoe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_hoe"
+    },
+    {
+      "name": "UraniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_pickaxe_recipe"
+    },
+    {
+      "name": "UraniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_axe_recipe"
+    },
+    {
+      "name": "UraniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_sword_recipe"
+    },
+    {
+      "name": "UraniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_shovel_recipe"
+    },
+    {
+      "name": "UraniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_hoe_recipe"
+    },
+    {
+      "name": "UraniumArmor",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "UraniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_armor_helmet_recipe"
+    },
+    {
+      "name": "UraniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_armor_body_recipe"
+    },
+    {
+      "name": "UraniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_armor_leggings_recipe"
+    },
+    {
+      "name": "UraniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_armor_boots_recipe"
+    },
+    {
+      "name": "UraniumTab",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_tab"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.uraniummod.uranium_hoe": "Uranium Hoe",
+      "block.uraniummod.uranium_ore_block": "Block of Uranium",
+      "item.uraniummod.uranium_armor_chestplate": "Uranium Chestplate",
+      "item.uraniummod.uranium_pickaxe": "Uranium Pickaxe",
+      "itemGroup.taburanium_tab": "UraniumMod",
+      "item.uraniummod.uranium_sword": "Uranium Sword",
+      "item.uraniummod.uranium_armor_leggings": "Uranium Leggings",
+      "item.uraniummod.uranium_axe": "Uranium Axe",
+      "item.uraniummod.uranium_dust": "Uranium",
+      "item.uraniummod.uranium_armor_helmet": "Uranium Helmet",
+      "block.uraniummod.uranium_ore": "Uranium Ore",
+      "item.uraniummod.uranium_armor_boots": "Uranium Boots",
+      "item.uraniummod.uranium_shovel": "Uranium Shovel"
+    },
+    "fr_fr": {
+      "item.uraniummod.uranium_hoe": "Houe En Uranium",
+      "block.uraniummod.uranium_ore_block": "Bloc D\u0027uranium",
+      "item.uraniummod.uranium_armor_chestplate": "Plastron En Uranium",
+      "item.uraniummod.uranium_pickaxe": "Pioche En Uranium",
+      "itemGroup.taburanium_tab": "UraniumMod",
+      "item.uraniummod.uranium_sword": "Epee En Uranium",
+      "item.uraniummod.uranium_armor_leggings": "Jambières En Uranium",
+      "item.uraniummod.uranium_axe": "Hache En Uranium",
+      "item.uraniummod.uranium_dust": "Uranium",
+      "item.uraniummod.uranium_armor_helmet": "Casque En Uranium",
+      "block.uraniummod.uranium_ore": "Minerais D\u0027uranium",
+      "item.uraniummod.uranium_armor_boots": "Bottes En Uranium",
+      "item.uraniummod.uranium_shovel": "Pelle En Uranium"
+    }
   },
   "workspaceSettings": {
     "modid": "uraniummod",

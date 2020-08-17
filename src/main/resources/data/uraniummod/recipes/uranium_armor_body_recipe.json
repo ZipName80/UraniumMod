@@ -1,0 +1,39 @@
+{
+  "group": "uraniummod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "2": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "3": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "4": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "5": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "6": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "7": {
+      "item": "uraniummod:uranium_dust"
+    },
+    "8": {
+      "item": "uraniummod:uranium_dust"
+    }
+  },
+  "result": {
+    "item": "uraniummod:uranium_armor_chestplate",
+    "count": 1
+  }
+}

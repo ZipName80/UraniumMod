@@ -1,0 +1,12 @@
+{
+  "group": "uraniummod",
+  "type": "minecraft:smelting",
+  "experience": 2.0999999999999996,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "uraniummod:uranium_ore"
+  },
+  "result": {
+    "item": "uraniummod:uranium_dust"
+  }
+}
